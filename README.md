@@ -49,7 +49,7 @@ Install MERN-Auth
 | POST       | /api/users/auth    | To login an existing user account |
 | GET        | /api/users/profile | To get an existing user profile   |
 | PUT        | /api/users/profile | To update user profile            |
-| POST       | /api/goals/logout  | To logout user                    |
+| POST       | /api/users/logout  | To logout user                    |
 
 ## Tech Stack
 
